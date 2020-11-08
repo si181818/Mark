@@ -15,7 +15,7 @@ package other.person.test.test1;
  */
 //這裡是Git註解測試
 
-class StrucOfTest {
+class StrucOfTest { //XX
 	 public static void main(String[] args) {
 		
 	 Pen myPen = new Pen(11.3);
