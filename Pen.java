@@ -13,6 +13,8 @@ package other.person.test.test1;
  * @author never
  *
  */
+//這裡是Git註解測試
+
 class StrucOfTest {
 	 public static void main(String[] args) {
 		
