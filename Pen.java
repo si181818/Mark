@@ -30,9 +30,14 @@ class StrucOfTest {
  * 
  *
  */
+
+
   class Pen{
 	 private static double price;
+
 	 private static String Brand;
+
+
 	 public  Pen() {
 		 
 	 }

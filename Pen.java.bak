@@ -30,9 +30,15 @@ class StrucOfTest {
  * 
  *
  */
+
+
   class Pen{
 	 private static double price;
-	 
+<<<<<<< HEAD
+	 private static String Brand;
+=======
+	 private static String brand;
+>>>>>>> dog
 	 public  Pen() {
 		 
 	 }
