@@ -13,9 +13,7 @@ package other.person.test.test1;
  * @author never
  *
  */
-//這裡是Git註解測試
-
-class StrucOfTest { //XX
+class StrucOfTest {
 	 public static void main(String[] args) {
 		
 	 Pen myPen = new Pen(11.3);
